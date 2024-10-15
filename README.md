@@ -13,7 +13,7 @@ The objective of this analysis is to assess the patterns of global economic deve
 
 3. Life Expectancy & GDP: Regions with higher GDP per capita generally show higher life expectancy. Developed nations (represented by larger, high GDP bubbles) exhibit better health outcomes but consist of a smaller proportion of the global population.
 
-4. HDI by Region: North America and Europe have the highest HDI scores, indicating high levels of human development, including life expectancy, education, and standards of living. Sub-Saharan Africa and South Asia lag behind, highlighting the need for targeted development in these regions.
+4. HDI by Region: North America, Europe, and Central Asia have the highest HDI scores, indicating high levels of human development, including life expectancy, education, and standards of living. Sub-Saharan Africa and South Asia lag behind, highlighting the need for targeted development in these regions.
 
 5. Electric Power Consumption & Economic Growth: A strong correlation exists between electric power consumption and GDP per capita, suggesting that energy infrastructure development is critical for continued economic growth.
 
